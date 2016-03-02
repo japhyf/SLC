@@ -5,4 +5,8 @@ class PagesController < ApplicationController
   end
   def English
   end
+  def Chemistry
+  end
+  def History
+  end
 end
